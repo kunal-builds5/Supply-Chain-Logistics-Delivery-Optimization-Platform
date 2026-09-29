@@ -1,0 +1,51 @@
+supplier_id,supplier_name,category,lead_time_days,quality_rating,contact_city,payment_terms,contract_status,defect_rate_pct,annual_contract_val_lakhs
+SUP001,Supplier Corp 1,Hardware,14,3.8,Vadodara,Net 30,Renewed,1.5,142
+SUP002,Supplier Corp 2,Automotive,13,4.9,Vadodara,Net 45,Active,2.15,66
+SUP003,Supplier Corp 3,Raw Material,6,4.8,Ahmedabad,Net 60,Active,1.02,121
+SUP004,Supplier Corp 4,Packaging,2,3.4,Chennai,Immediate,Active,0.55,56
+SUP005,Supplier Corp 5,Automotive,5,3.1,Pune,Immediate,Under Review,0.36,94
+SUP006,Supplier Corp 6,Packaging,6,3.2,Chennai,Net 30,Active,3.3,75
+SUP007,Supplier Corp 7,Chemicals,13,3.0,Ahmedabad,Net 30,Under Review,1.52,84
+SUP008,Supplier Corp 8,Industrial,11,3.2,Vadodara,Net 45,Under Review,2.08,112
+SUP009,Supplier Corp 9,Electronics,11,4.4,Chennai,Immediate,Active,3.23,47
+SUP010,Supplier Corp 10,Hardware,6,3.1,Vadodara,Net 30,Active,0.38,59
+SUP011,Supplier Corp 11,Industrial,8,3.6,Ludhiana,Net 60,Active,3.08,107
+SUP012,Supplier Corp 12,Automotive,5,4.7,Coimbatore,Net 60,Renewed,1.98,91
+SUP013,Supplier Corp 13,Packaging,2,3.0,Pune,Net 30,Active,0.66,39
+SUP014,Supplier Corp 14,Hardware,6,4.6,Ludhiana,Net 30,Under Review,1.5,88
+SUP015,Supplier Corp 15,Packaging,8,3.6,Vadodara,Immediate,Active,2.74,100
+SUP016,Supplier Corp 16,Raw Material,11,3.2,Vadodara,Immediate,Renewed,1.73,61
+SUP017,Supplier Corp 17,Packaging,11,4.4,Bhiwandi,Net 45,Active,3.45,88
+SUP018,Supplier Corp 18,Raw Material,7,4.3,Bhiwandi,Immediate,Renewed,1.38,39
+SUP019,Supplier Corp 19,Chemicals,6,4.8,Ludhiana,Net 60,Renewed,2.65,115
+SUP020,Supplier Corp 20,Hardware,5,4.5,Surat,Net 60,Active,1.44,60
+SUP021,Supplier Corp 21,Hardware,3,4.6,Ludhiana,Net 30,Under Review,2.92,90
+SUP022,Supplier Corp 22,Electronics,5,3.6,Bhiwandi,Immediate,Renewed,2.03,142
+SUP023,Supplier Corp 23,Automotive,11,3.4,Vadodara,Net 45,Active,0.32,38
+SUP024,Supplier Corp 24,Raw Material,11,4.5,Ahmedabad,Net 60,Active,0.23,141
+SUP025,Supplier Corp 25,Electronics,4,4.6,Ludhiana,Net 60,Under Review,0.56,147
+SUP026,Supplier Corp 26,Packaging,11,5.0,Vadodara,Net 45,Renewed,0.15,83
+SUP027,Supplier Corp 27,Packaging,2,3.8,Ahmedabad,Net 45,Renewed,0.36,26
+SUP028,Supplier Corp 28,Electronics,9,3.7,Ahmedabad,Net 60,Active,2.45,93
+SUP029,Supplier Corp 29,Hardware,6,4.6,Bhiwandi,Net 60,Active,1.92,78
+SUP030,Supplier Corp 30,Packaging,14,3.7,Ludhiana,Net 45,Under Review,2.65,43
+SUP031,Supplier Corp 31,Chemicals,5,4.9,Chennai,Net 60,Under Review,3.2,15
+SUP032,Supplier Corp 32,Chemicals,9,4.7,Pune,Net 30,Renewed,2.09,62
+SUP033,Supplier Corp 33,Electronics,8,3.9,Bhiwandi,Net 30,Renewed,2.57,135
+SUP034,Supplier Corp 34,Raw Material,3,4.5,Bhiwandi,Net 45,Active,2.67,52
+SUP035,Supplier Corp 35,Raw Material,2,4.5,Chennai,Immediate,Renewed,1.38,124
+SUP036,Supplier Corp 36,Electronics,13,3.2,Pune,Net 45,Under Review,0.92,120
+SUP037,Supplier Corp 37,Raw Material,12,4.8,Vadodara,Net 45,Under Review,0.8,89
+SUP038,Supplier Corp 38,Hardware,5,4.0,Surat,Immediate,Active,0.95,104
+SUP039,Supplier Corp 39,Hardware,9,4.7,Ludhiana,Immediate,Under Review,1.03,127
+SUP040,Supplier Corp 40,Raw Material,13,3.6,Surat,Immediate,Under Review,0.8,17
+SUP041,Supplier Corp 41,Chemicals,3,4.8,Vadodara,Net 30,Under Review,3.09,141
+SUP042,Supplier Corp 42,Raw Material,4,3.8,Coimbatore,Net 60,Under Review,2.67,113
+SUP043,Supplier Corp 43,Hardware,13,3.0,Bhiwandi,Net 30,Active,0.26,141
+SUP044,Supplier Corp 44,Industrial,2,4.8,Pune,Net 60,Active,1.01,34
+SUP045,Supplier Corp 45,Automotive,2,3.2,Bhiwandi,Net 30,Renewed,0.18,105
+SUP046,Supplier Corp 46,Packaging,14,3.6,Ahmedabad,Net 60,Under Review,1.79,102
+SUP047,Supplier Corp 47,Industrial,4,4.9,Bhiwandi,Net 30,Renewed,1.72,70
+SUP048,Supplier Corp 48,Raw Material,12,4.9,Bhiwandi,Immediate,Active,2.93,131
+SUP049,Supplier Corp 49,Chemicals,6,4.1,Vadodara,Net 45,Active,1.15,60
+SUP050,Supplier Corp 50,Electronics,13,4.3,Vadodara,Net 30,Active,2.88,30

@@ -1,0 +1,51 @@
+sku_id,product_name,category,unit_cost_inr,selling_price_inr,weight_kg,reorder_point,supplier_id,hazard_class,storage_temp_req
+SKU1001,Industrial Product 1,Electrical,7009,10638.78,14.75,24,SUP014,Class 3 Flammable,Ambient
+SKU1002,Industrial Product 2,Electronics,4821,6200.02,14.2,170,SUP026,Non-Hazardous,Ambient
+SKU1003,Industrial Product 3,Chemicals,13823,18896.41,9.59,157,SUP004,Class 3 Flammable,Ambient
+SKU1004,Industrial Product 4,Electronics,13370,17065.82,8.57,191,SUP025,Non-Hazardous,Ambient
+SKU1005,Industrial Product 5,Electrical,5326,8061.63,22.51,149,SUP045,Non-Hazardous,Ambient
+SKU1006,Industrial Product 6,Hardware,5322,7159.72,15.27,32,SUP042,Non-Hazardous,Ambient
+SKU1007,Industrial Product 7,Electrical,1846,2887.33,6.26,187,SUP025,Non-Hazardous,Ambient
+SKU1008,Industrial Product 8,Hardware,1118,1603.55,12.56,149,SUP018,Non-Hazardous,Ambient
+SKU1009,Industrial Product 9,Mechanical,2997,4586.2,8.39,103,SUP040,Non-Hazardous,Ambient
+SKU1010,Industrial Product 10,Electrical,6706,10680.15,23.36,84,SUP008,Non-Hazardous,Cool (15-25C)
+SKU1011,Industrial Product 11,Mechanical,6070,9371.63,0.39,82,SUP039,Non-Hazardous,Cool (15-25C)
+SKU1012,Industrial Product 12,Chemicals,1731,2689.02,5.79,120,SUP040,Non-Hazardous,Ambient
+SKU1013,Industrial Product 13,Electronics,8372,11660.48,9.26,92,SUP014,Class 3 Flammable,Ambient
+SKU1014,Industrial Product 14,Hardware,3545,5115.8,12.3,36,SUP032,Non-Hazardous,Cool (15-25C)
+SKU1015,Industrial Product 15,Electronics,7873,10540.85,21.3,28,SUP038,Non-Hazardous,Ambient
+SKU1016,Industrial Product 16,Mechanical,7149,9426.95,2.38,162,SUP033,Non-Hazardous,Ambient
+SKU1017,Industrial Product 17,Hardware,7082,10105.5,20.19,171,SUP023,Class 3 Flammable,Cool (15-25C)
+SKU1018,Industrial Product 18,Electronics,2106,3071.11,1.58,57,SUP015,Non-Hazardous,Ambient
+SKU1019,Industrial Product 19,Electrical,3286,4497.7,21.09,182,SUP033,Class 8 Corrosive,Ambient
+SKU1020,Industrial Product 20,Packaging,13703,19859.83,1.48,113,SUP025,Class 9 Misc,Ambient
+SKU1021,Industrial Product 21,Mechanical,8352,13034.22,0.65,114,SUP017,Non-Hazardous,Ambient
+SKU1022,Industrial Product 22,Electronics,5950,8596.87,17.48,68,SUP033,Non-Hazardous,Ambient
+SKU1023,Industrial Product 23,Mechanical,12972,19487.64,24.93,88,SUP047,Non-Hazardous,Ambient
+SKU1024,Industrial Product 24,Safety,10467,16033.98,22.44,81,SUP002,Non-Hazardous,Ambient
+SKU1025,Industrial Product 25,Mechanical,9105,14532.08,14.48,197,SUP014,Non-Hazardous,Ambient
+SKU1026,Industrial Product 26,Hardware,1262,1843.93,22.95,97,SUP040,Class 9 Misc,Ambient
+SKU1027,Industrial Product 27,Safety,2176,3334.5,0.33,136,SUP040,Non-Hazardous,Ambient
+SKU1028,Industrial Product 28,Hardware,1496,2374.04,24.38,139,SUP039,Non-Hazardous,Cold (2-8C)
+SKU1029,Industrial Product 29,Packaging,13742,21719.83,12.37,156,SUP006,Non-Hazardous,Ambient
+SKU1030,Industrial Product 30,Safety,6429,8353.71,18.13,181,SUP006,Class 3 Flammable,Ambient
+SKU1031,Industrial Product 31,Electrical,7841,10916.53,20.56,95,SUP003,Non-Hazardous,Cool (15-25C)
+SKU1032,Industrial Product 32,Mechanical,325,443.1,18.02,54,SUP007,Non-Hazardous,Ambient
+SKU1033,Industrial Product 33,Electronics,4832,6187.01,13.47,20,SUP008,Class 9 Misc,Ambient
+SKU1034,Industrial Product 34,Chemicals,6488,9547.96,12.02,59,SUP042,Class 3 Flammable,Ambient
+SKU1035,Industrial Product 35,Mechanical,3796,5722.72,21.0,83,SUP015,Non-Hazardous,Ambient
+SKU1036,Industrial Product 36,Mechanical,11675,18059.41,5.29,169,SUP047,Non-Hazardous,Ambient
+SKU1037,Industrial Product 37,Packaging,6368,8233.65,24.21,79,SUP029,Class 3 Flammable,Ambient
+SKU1038,Industrial Product 38,Electrical,9995,15559.77,17.83,83,SUP033,Non-Hazardous,Ambient
+SKU1039,Industrial Product 39,Chemicals,7761,11447.66,5.15,112,SUP030,Non-Hazardous,Ambient
+SKU1040,Industrial Product 40,Safety,8458,12656.39,18.46,91,SUP039,Non-Hazardous,Ambient
+SKU1041,Industrial Product 41,Safety,432,677.69,13.34,30,SUP027,Non-Hazardous,Ambient
+SKU1042,Industrial Product 42,Safety,10548,15491.49,17.74,124,SUP036,Class 8 Corrosive,Ambient
+SKU1043,Industrial Product 43,Hardware,9561,13075.17,19.24,33,SUP029,Class 9 Misc,Cool (15-25C)
+SKU1044,Industrial Product 44,Hardware,10550,16234.21,2.36,79,SUP038,Non-Hazardous,Ambient
+SKU1045,Industrial Product 45,Electronics,6571,9048.73,12.75,49,SUP033,Non-Hazardous,Ambient
+SKU1046,Industrial Product 46,Chemicals,4406,5560.28,23.31,54,SUP037,Non-Hazardous,Ambient
+SKU1047,Industrial Product 47,Safety,9885,15230.11,8.15,184,SUP027,Non-Hazardous,Ambient
+SKU1048,Industrial Product 48,Hardware,14569,19971.44,14.93,24,SUP033,Class 8 Corrosive,Ambient
+SKU1049,Industrial Product 49,Electronics,13110,19938.24,9.36,102,SUP004,Non-Hazardous,Ambient
+SKU1050,Industrial Product 50,Electrical,8143,11212.63,11.47,142,SUP022,Non-Hazardous,Ambient

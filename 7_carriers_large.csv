@@ -1,0 +1,51 @@
+carrier_id,carrier_name,transport_mode,cost_per_km_inr,fleet_size,rating,primary_hub,contact_person,insurance_covered,active_routes_count
+CAR001,Logistics Partner 1,Road,44.9,95,4.8,Bengaluru,Sunil Nair,Yes,15
+CAR002,Logistics Partner 2,Air,25.98,142,3.6,Delhi,Pooja Hegde,Yes,49
+CAR003,Logistics Partner 3,Road,42.57,192,4.5,Hyderabad,Pooja Hegde,No,37
+CAR004,Logistics Partner 4,Rail,20.11,71,4.6,Kolkata,Deepak Joshi,Yes,21
+CAR005,Logistics Partner 5,Road,16.94,228,4.0,Kolkata,Deepak Joshi,Yes,10
+CAR006,Logistics Partner 6,Rail,25.14,255,3.9,Chennai,Pooja Hegde,Yes,8
+CAR007,Logistics Partner 7,Rail,87.23,239,4.0,Delhi,Pooja Hegde,Yes,24
+CAR008,Logistics Partner 8,Air,56.21,88,3.6,Bengaluru,Sunil Nair,No,31
+CAR009,Logistics Partner 9,Road,87.44,158,4.7,Delhi,Karan Malhotra,No,19
+CAR010,Logistics Partner 10,Road,47.44,147,4.0,Mumbai,Deepak Joshi,Yes,10
+CAR011,Logistics Partner 11,Road,38.39,74,4.7,Delhi,Karan Malhotra,Yes,18
+CAR012,Logistics Partner 12,Road,52.96,22,3.4,Mumbai,Sunil Nair,Yes,15
+CAR013,Logistics Partner 13,Road,47.96,222,4.9,Mumbai,Pooja Hegde,No,43
+CAR014,Logistics Partner 14,Express Highway,22.92,251,4.0,Bengaluru,Karan Malhotra,Yes,13
+CAR015,Logistics Partner 15,Road,63.06,222,3.3,Hyderabad,Pooja Hegde,Yes,30
+CAR016,Logistics Partner 16,Road,31.2,190,3.3,Chennai,Pooja Hegde,Yes,20
+CAR017,Logistics Partner 17,Road,61.47,182,4.5,Delhi,Anil Kapoor,Yes,9
+CAR018,Logistics Partner 18,Road,63.77,169,4.3,Mumbai,Karan Malhotra,Yes,14
+CAR019,Logistics Partner 19,Air,26.4,173,4.6,Delhi,Karan Malhotra,Yes,7
+CAR020,Logistics Partner 20,Road,19.6,197,3.4,Hyderabad,Pooja Hegde,Yes,17
+CAR021,Logistics Partner 21,Express Highway,73.56,200,3.3,Chennai,Sunil Nair,Yes,47
+CAR022,Logistics Partner 22,Road,49.49,265,4.1,Hyderabad,Anil Kapoor,Yes,34
+CAR023,Logistics Partner 23,Express Highway,19.36,192,3.9,Chennai,Pooja Hegde,Yes,49
+CAR024,Logistics Partner 24,Rail,89.61,126,4.0,Kolkata,Deepak Joshi,Yes,10
+CAR025,Logistics Partner 25,Road,19.33,291,4.9,Chennai,Deepak Joshi,Yes,21
+CAR026,Logistics Partner 26,Express Highway,67.13,205,4.9,Bengaluru,Anil Kapoor,Yes,49
+CAR027,Logistics Partner 27,Road,88.78,43,4.8,Hyderabad,Sunil Nair,Yes,23
+CAR028,Logistics Partner 28,Rail,32.94,61,4.5,Mumbai,Pooja Hegde,Yes,46
+CAR029,Logistics Partner 29,Road,25.67,121,3.8,Kolkata,Karan Malhotra,Yes,39
+CAR030,Logistics Partner 30,Rail,24.1,261,3.9,Bengaluru,Anil Kapoor,Yes,30
+CAR031,Logistics Partner 31,Rail,37.75,91,4.1,Delhi,Sunil Nair,Yes,9
+CAR032,Logistics Partner 32,Rail,22.58,241,4.6,Hyderabad,Karan Malhotra,Yes,33
+CAR033,Logistics Partner 33,Rail,66.91,236,3.3,Mumbai,Deepak Joshi,Yes,41
+CAR034,Logistics Partner 34,Road,19.67,242,3.9,Chennai,Deepak Joshi,Yes,24
+CAR035,Logistics Partner 35,Road,53.21,230,3.3,Mumbai,Karan Malhotra,Yes,25
+CAR036,Logistics Partner 36,Road,89.75,51,4.1,Delhi,Anil Kapoor,Yes,14
+CAR037,Logistics Partner 37,Road,76.05,30,4.7,Kolkata,Deepak Joshi,Yes,9
+CAR038,Logistics Partner 38,Air,61.14,51,4.5,Kolkata,Pooja Hegde,Yes,40
+CAR039,Logistics Partner 39,Road,37.97,122,3.6,Hyderabad,Karan Malhotra,Yes,10
+CAR040,Logistics Partner 40,Express Highway,61.79,114,4.9,Kolkata,Karan Malhotra,Yes,30
+CAR041,Logistics Partner 41,Air,54.53,201,4.3,Hyderabad,Deepak Joshi,Yes,8
+CAR042,Logistics Partner 42,Rail,46.96,26,3.2,Hyderabad,Anil Kapoor,Yes,43
+CAR043,Logistics Partner 43,Road,24.8,129,3.6,Hyderabad,Pooja Hegde,Yes,43
+CAR044,Logistics Partner 44,Rail,81.5,138,3.6,Chennai,Anil Kapoor,Yes,39
+CAR045,Logistics Partner 45,Express Highway,48.73,139,3.3,Bengaluru,Sunil Nair,Yes,5
+CAR046,Logistics Partner 46,Road,29.6,69,4.8,Hyderabad,Sunil Nair,Yes,28
+CAR047,Logistics Partner 47,Air,42.58,57,4.0,Hyderabad,Deepak Joshi,Yes,40
+CAR048,Logistics Partner 48,Rail,46.06,38,4.7,Bengaluru,Deepak Joshi,Yes,10
+CAR049,Logistics Partner 49,Road,77.07,106,3.7,Mumbai,Deepak Joshi,Yes,45
+CAR050,Logistics Partner 50,Road,70.02,19,3.4,Hyderabad,Sunil Nair,Yes,48
